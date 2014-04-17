@@ -1,11 +1,29 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
-    "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-<body>
+  <head>
+    <title>Screensaver</title>
 
-<div>
-<img src="https://wiki.mongodb.com/download/attachments/76612307/MongoDB_Brown_Trees_Large_Monitor_Background.png" width="100%" />
-</div>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/jquery.innerfade.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('#show').innerFade({
+          timeout: 2000 
+        }); 
+      });
+    </script>
 
-</body>
+    <style>
+      * { margin: 0; padding: 0; }
+      li { border: none; list-style: none; }
+    </style>
+  </head>
+  <body>
+    <ul id="show">
+    <li><img src="https://wiki.mongodb.com/download/attachments/76612307/1" width="100%"/></li>
+    <li><img src="https://wiki.mongodb.com/download/attachments/76612307/2" width="100%"/></li>
+    <li><img src="https://wiki.mongodb.com/download/attachments/76612307/3" width="100%"/></li>
+    <li><img src="https://wiki.mongodb.com/download/attachments/76612307/4" width="100%"/></li>
+    <li><img src="https://wiki.mongodb.com/download/attachments/76612307/5" width="100%"/></li>
+    </ul>
+  </body>
 </html>
