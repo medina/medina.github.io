@@ -2,25 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Class Notes</title>
-    <link>/categories/notes/index.xml</link>
+    <link>https://medina.github.io/categories/notes/index.xml</link>
     <description>Recent content in Notes on Class Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://medina.github.io/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>week1 content continued</title>
+      <link>https://medina.github.io/post/week1-content-continued/</link>
+      <pubDate>Mon, 30 Jan 2017 23:36:34 -0500</pubDate>
+      
+      <guid>https://medina.github.io/post/week1-content-continued/</guid>
+      <description>&lt;p&gt;Week 1 board noetes continued&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-1-notes-2.jpg&#34; alt=&#34;week-1-notes-2&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Detection or Prevention: with a finite budget, where do you put your dollars?&lt;/li&gt;
+&lt;li&gt;DoS / DDoS: Denial of Service or Distributed Denial of Service, an attack against availability of a service.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act&#34;&gt;HIPAA&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Family_Educational_Rights_and_Privacy_Act&#34;&gt;FERPA&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Federal_Financial_Institutions_Examination_Council&#34;&gt;FFIEC&lt;/a&gt; &amp;ndash; different regulations and oversight bodies for different sectors.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Personally_identifiable_information&#34;&gt;PII&lt;/a&gt;, &lt;a href=&#34;https://www.sec.gov/about/offices/ocie/informationbarriers.pdf&#34;&gt;MNPI&lt;/a&gt;, &lt;a href=&#34;https://www.pcisecuritystandards.org/pci_security/glossary&#34;&gt;PCI Data&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Classified_information_in_the_United_States&#34;&gt;NOFORN&lt;/a&gt;, &amp;hellip; different classifications of information sensitivity, driving the required protection schemes, sometimes enforced by law.&lt;/li&gt;
+&lt;li&gt;Retention policies &lt;em&gt;and destruction policies&lt;/em&gt; are both important.  &lt;a href=&#34;https://www.dropboxforum.com/t5/Missing-files-and-folders/deleted-folder-re-appeared-after-a-couple-of-years/m-p/203016/highlight/true#M8819&#34;&gt;Dropbox recently had some bad press&lt;/a&gt; when a support issue was raised wherein user content was not being deleted as advertised.  This privacy policy is now being updated.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Retention. We&amp;rsquo;ll retain information you store on our Services for as long as we
+need to do so to provide you the Services. If you delete your account, we&amp;rsquo;ll
+also delete this information. But please note there might be some latency in
+deleting this information from our servers and backup storage.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://krebsonsecurity.com/all-about-skimmers/&#34;&gt;All About Skimmers&lt;/a&gt; from Brian Krebs.&lt;/li&gt;
+&lt;li&gt;A classmate correctly spots that certain skimmer attacks are an example of a real-world &lt;a href=&#34;https://en.wikipedia.org/wiki/Man-in-the-middle_attack&#34;&gt;MITM&lt;/a&gt;.  When we get to &lt;a href=&#34;https://en.wikipedia.org/wiki/Alice_and_Bob&#34;&gt;Alice and Bob&lt;/a&gt;, we&amp;rsquo;ll use &amp;ldquo;Mallory&amp;rdquo; to be this active, malicious adversary.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>week1 content</title>
-      <link>/post/week1-content/</link>
+      <link>https://medina.github.io/post/week1-content/</link>
       <pubDate>Mon, 30 Jan 2017 22:17:57 -0500</pubDate>
       
-      <guid>/post/week1-content/</guid>
+      <guid>https://medina.github.io/post/week1-content/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s a goal to &amp;ldquo;spell it all out&amp;rdquo; in this course.&lt;/p&gt;
 
 &lt;p&gt;Don&amp;rsquo;t let any acronym go unexpanded, or new term go undefined.&lt;/p&gt;
 
 &lt;p&gt;When in doubt, ask!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/static/images/week-1-notes-1.jpg&#34; alt=&#34;week-1-notes-1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-1-notes-1.jpg&#34; alt=&#34;week-1-notes-1&#34; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Cuckoo&#39;s_Egg&#34;&gt;Stoll: Cuckoo&amp;rsquo;s Egg&lt;/a&gt;, with the sub-title &amp;ldquo;Tracking a Spy Through the Maze of Computer Espionage&amp;rdquo;&lt;/li&gt;
