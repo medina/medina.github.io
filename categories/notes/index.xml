@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Class Notes</title>
-    <link>/post/index.xml</link>
-    <description>Recent content in Posts on Class Notes</description>
+    <title>Notes on Class Notes</title>
+    <link>/categories/notes/index.xml</link>
+    <description>Recent content in Notes on Class Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2017 22:17:57 -0500</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/notes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>week1 content</title>
