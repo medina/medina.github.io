@@ -6,8 +6,18 @@
     <description>Recent content on CyberSecurity: Essentials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2017 23:20:10 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2017 23:27:33 -0500</lastBuildDate>
     <atom:link href="https://medina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://medina.github.io/about/</link>
+      <pubDate>Wed, 01 Feb 2017 23:27:33 -0500</pubDate>
+      
+      <guid>https://medina.github.io/about/</guid>
+      <description>&lt;p&gt;These are course notes for &lt;a href=&#34;https://www.sps.nyu.edu/professional-pathways/diplomas/advanced-diploma/cybersecurity/DIPL1-CE3220-cybersecurity-essentials.html&#34;&gt;Cybersecurity Essentials&lt;/a&gt;, the introductory course for the &lt;a href=&#34;https://www.sps.nyu.edu/professional-pathways/diplomas/advanced-diploma/cybersecurity.html&#34;&gt;Advanced Diploma in Cybersecurity&lt;/a&gt; at &lt;a href=&#34;https://www.sps.nyu.edu/&#34;&gt;NYU School of Professional Studies&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week1, Week2 Slides</title>
