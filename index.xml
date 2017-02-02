@@ -6,8 +6,23 @@
     <description>Recent content on CyberSecurity: Essentials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jan 2017 00:06:26 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2017 23:20:10 -0500</lastBuildDate>
     <atom:link href="https://medina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week1, Week2 Slides</title>
+      <link>https://medina.github.io/blog/week2-slides/</link>
+      <pubDate>Wed, 01 Feb 2017 23:20:10 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week2-slides/</guid>
+      <description>&lt;p&gt;Goal is to get these up before each class:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://medina.github.io/static/Week01.pdf&#34;&gt;Week01&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://medina.github.io/static/Week02.pdf&#34;&gt;Week02&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Week2 Links</title>
@@ -17,7 +32,7 @@
       <guid>https://medina.github.io/blog/week2-links/</guid>
       <description>
 
-&lt;p&gt;Spotted via &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;HackerNews&lt;/a&gt;, &lt;a href=&#34;https://slashdot.org&#34;&gt;Slashdot&lt;/a&gt;, &lt;a href=&#34;https://www.reddit.com/r/netsec/&#34;&gt;/r/netsec&lt;/a&gt;, &lt;a href=&#34;https://twitter.com&#34;&gt;Twitter&lt;/a&gt;; via security bloggers including &lt;a href=&#34;https://krebsonsecurity.com/&#34;&gt;Krebs on Security&lt;/a&gt;, &lt;a href=&#34;https://www.troyhunt.com/&#34;&gt;Troy Hunt&lt;/a&gt;; from classmates; and elsewhere.&lt;/p&gt;
+&lt;p&gt;Spotted via &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;HackerNews&lt;/a&gt;, &lt;a href=&#34;https://slashdot.org&#34;&gt;Slashdot&lt;/a&gt;, &lt;a href=&#34;https://www.reddit.com/r/netsec/&#34;&gt;/r/netsec&lt;/a&gt;, &lt;a href=&#34;http://www.oreilly.com/security/newsletter&#34;&gt;O&amp;rsquo;Reilly Security Newsletter&lt;/a&gt;, &lt;a href=&#34;https://twitter.com&#34;&gt;Twitter&lt;/a&gt;; via security bloggers including &lt;a href=&#34;https://krebsonsecurity.com/&#34;&gt;Krebs on Security&lt;/a&gt;, &lt;a href=&#34;https://www.troyhunt.com/&#34;&gt;Troy Hunt&lt;/a&gt;; from classmates; and elsewhere.&lt;/p&gt;
 
 &lt;h3 id=&#34;events-and-conferences&#34;&gt;Events and Conferences&lt;/h3&gt;
 
