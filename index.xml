@@ -1,20 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Class Notes</title>
+    <title>CyberSecurity: Essentials</title>
     <link>https://medina.github.io/index.xml</link>
-    <description>Recent content on Class Notes</description>
+    <description>Recent content on CyberSecurity: Essentials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2017 23:36:34 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2017 00:06:26 -0500</lastBuildDate>
     <atom:link href="https://medina.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>week1 content continued</title>
-      <link>https://medina.github.io/post/week1-content-continued/</link>
+      <title>Week2 Links</title>
+      <link>https://medina.github.io/blog/week2-links/</link>
+      <pubDate>Tue, 31 Jan 2017 00:06:26 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week2-links/</guid>
+      <description>
+
+&lt;p&gt;Spotted via &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;HackerNews&lt;/a&gt;, &lt;a href=&#34;https://slashdot.org&#34;&gt;Slashdot&lt;/a&gt;, &lt;a href=&#34;https://www.reddit.com/r/netsec/&#34;&gt;/r/netsec&lt;/a&gt;, &lt;a href=&#34;https://twitter.com&#34;&gt;Twitter&lt;/a&gt;; via security bloggers including &lt;a href=&#34;https://krebsonsecurity.com/&#34;&gt;Krebs on Security&lt;/a&gt;, &lt;a href=&#34;https://www.troyhunt.com/&#34;&gt;Troy Hunt&lt;/a&gt;; from classmates; and elsewhere.&lt;/p&gt;
+
+&lt;h3 id=&#34;events-and-conferences&#34;&gt;Events and Conferences&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.usenix.org/conference/enigma2017&#34;&gt;USENIX Engima 2017&lt;/a&gt; is going on now.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/Empire-Hacking/events/234651821/&#34;&gt;Empire Hacking&lt;/a&gt;: Tuesday, February 7, 2017 @ 6:00PM&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/owaspnycnj/events/236399988/&#34;&gt;OWASP NY/NJ&lt;/a&gt;: Wednesday, February 8, 2017 @ 11:00AM.  Legal issues, changes in PCI DSS 3.2, and more.&lt;/p&gt;
+
+&lt;h3 id=&#34;legal-and-politics&#34;&gt;Legal and Politics&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://lawfareblog.com/assessing-draft-cyber-executive-order&#34;&gt;Assessing the Draft Cyber Executive Order&lt;/a&gt;: not officially released as scheduled, not sure the status.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mit.edu/~specter/articles/17/deniability1.html&#34;&gt;On Deniability and Duress&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;access-controls&#34;&gt;Access Controls&lt;/h3&gt;
+
+&lt;p&gt;New Facebook security features: &lt;a href=&#34;https://www.facebook.com/notes/facebook-security/security-key-for-safer-logins-with-a-touch/10154125089265766&#34;&gt;Security Key for safer logins with a touch&lt;/a&gt; and &lt;a href=&#34;https://www.facebook.com/notes/protect-the-graph/improving-account-security-with-delegated-recovery/1833022090271267&#34;&gt;Improving account security with delegated recovery&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;encryption&#34;&gt;Encryption&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.troyhunt.com/https-adoption-has-reached-the-tipping-point/&#34;&gt;HTTPS adoption has reached the tipping point&lt;/a&gt;: &lt;em&gt;&amp;ldquo;HTTPS adoption has now reached the moment of critical mass where it&amp;rsquo;s gathering enough momentum that it will very shortly become &amp;ldquo;the norm&amp;rdquo; rather than the exception it so frequently was in the past.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://codeascraft.com/2017/01/31/how-etsy-manages-https-and-ssl-certificates-for-custom-domains-on-pattern/&#34;&gt;How Etsy Manages HTTPS and SSL Certificates for Custom Domains on Pattern&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=852751&#34;&gt;[cryptkeeper] Sets the same password &amp;ldquo;p&amp;rdquo; for everything independently of user input&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;application-security&#34;&gt;Application Security&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://security.googleblog.com/2017/01/vulnerability-rewards-program-2016-year.html&#34;&gt;Vulnerability Rewards Program: 2016 Year in Review&lt;/a&gt;: $3,000,000 paid out in 2016&lt;/p&gt;
+
+&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://krebsonsecurity.com/2017/01/atm-shimmers-target-chip-based-cards/&#34;&gt;ATM ‘Shimmers’ Target Chip-Based Cards&lt;/a&gt;: &lt;em&gt;&amp;ldquo;The reason shimmers exist at all is that some banks have apparently not correctly implemented the chip card standard, known as EMV (short for Europay, Mastercard and Visa).&amp;rdquo;&lt;/em&gt;  What?!  I didn&amp;rsquo;t know this was a thing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://robert.ocallahan.org/2017/01/disable-your-antivirus-software-except.html&#34;&gt;Disable Your Antivirus Software (Except Microsoft&amp;rsquo;s)&lt;/a&gt; - What else to do about all these vulnerabilities in security products?!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://checkyourbackups.work/&#34;&gt;Check Your Backups Day!&lt;/a&gt; - an excellent idea.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week1 Board Notes, Continued</title>
+      <link>https://medina.github.io/blog/week1-content-continued/</link>
       <pubDate>Mon, 30 Jan 2017 23:36:34 -0500</pubDate>
       
-      <guid>https://medina.github.io/post/week1-content-continued/</guid>
+      <guid>https://medina.github.io/blog/week1-content-continued/</guid>
       <description>&lt;p&gt;Week 1 board notes continued&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-1-notes-2.jpg&#34; alt=&#34;week-1-notes-2&#34; /&gt;&lt;/p&gt;
@@ -42,11 +92,11 @@ deleting this information from our servers and backup storage.&lt;/p&gt;
     </item>
     
     <item>
-      <title>week1 content</title>
-      <link>https://medina.github.io/post/week1-content/</link>
+      <title>Week1 Board Notes</title>
+      <link>https://medina.github.io/blog/week1-content/</link>
       <pubDate>Mon, 30 Jan 2017 22:17:57 -0500</pubDate>
       
-      <guid>https://medina.github.io/post/week1-content/</guid>
+      <guid>https://medina.github.io/blog/week1-content/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s a goal to &amp;ldquo;spell it all out&amp;rdquo; in this course.&lt;/p&gt;
 
 &lt;p&gt;Don&amp;rsquo;t let any acronym go unexpanded, or new term go undefined.&lt;/p&gt;

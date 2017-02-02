@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes on Class Notes</title>
+    <title>Notes on CyberSecurity: Essentials</title>
     <link>https://medina.github.io/categories/notes/index.xml</link>
-    <description>Recent content in Notes on Class Notes</description>
+    <description>Recent content in Notes on CyberSecurity: Essentials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://medina.github.io/categories/notes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>week1 content continued</title>
-      <link>https://medina.github.io/post/week1-content-continued/</link>
+      <title>Week1 Board Notes, Continued</title>
+      <link>https://medina.github.io/blog/week1-content-continued/</link>
       <pubDate>Mon, 30 Jan 2017 23:36:34 -0500</pubDate>
       
-      <guid>https://medina.github.io/post/week1-content-continued/</guid>
+      <guid>https://medina.github.io/blog/week1-content-continued/</guid>
       <description>&lt;p&gt;Week 1 board notes continued&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-1-notes-2.jpg&#34; alt=&#34;week-1-notes-2&#34; /&gt;&lt;/p&gt;
@@ -41,11 +41,11 @@ deleting this information from our servers and backup storage.&lt;/p&gt;
     </item>
     
     <item>
-      <title>week1 content</title>
-      <link>https://medina.github.io/post/week1-content/</link>
+      <title>Week1 Board Notes</title>
+      <link>https://medina.github.io/blog/week1-content/</link>
       <pubDate>Mon, 30 Jan 2017 22:17:57 -0500</pubDate>
       
-      <guid>https://medina.github.io/post/week1-content/</guid>
+      <guid>https://medina.github.io/blog/week1-content/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s a goal to &amp;ldquo;spell it all out&amp;rdquo; in this course.&lt;/p&gt;
 
 &lt;p&gt;Don&amp;rsquo;t let any acronym go unexpanded, or new term go undefined.&lt;/p&gt;
