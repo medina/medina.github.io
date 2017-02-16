@@ -6,8 +6,107 @@
     <description>Recent content in Blogs on CyberSecurity: Essentials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2017 23:20:10 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 15 Feb 2017 23:25:59 -0500</lastBuildDate>
     <atom:link href="https://medina.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>week3 links</title>
+      <link>https://medina.github.io/blog/week3-links/</link>
+      <pubDate>Wed, 15 Feb 2017 23:25:59 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week3-links/</guid>
+      <description>
+
+&lt;p&gt;Spotted via &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;HackerNews&lt;/a&gt;, &lt;a href=&#34;https://slashdot.org&#34;&gt;Slashdot&lt;/a&gt;, &lt;a href=&#34;https://www.reddit.com/r/netsec/&#34;&gt;/r/netsec&lt;/a&gt;, &lt;a href=&#34;http://www.oreilly.com/security/newsletter&#34;&gt;O&amp;rsquo;Reilly Security Newsletter&lt;/a&gt;, &lt;a href=&#34;https://twitter.com&#34;&gt;Twitter&lt;/a&gt;; via security bloggers including &lt;a href=&#34;https://krebsonsecurity.com/&#34;&gt;Krebs on Security&lt;/a&gt;, &lt;a href=&#34;https://www.troyhunt.com/&#34;&gt;Troy Hunt&lt;/a&gt;; from classmates; and elsewhere.&lt;/p&gt;
+
+&lt;h3 id=&#34;events-and-conferences&#34;&gt;Events and Conferences&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.rsaconference.com/&#34;&gt;RSA Conference&lt;/a&gt; is on now.&lt;/p&gt;
+
+&lt;h3 id=&#34;hey-we-were-just-talking-about-that&#34;&gt;Hey-we-were-just-talking-about-that&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/news/articles/2017-02-15/verizon-said-to-reach-revised-price-for-yahoo-in-wake-of-hacks&#34;&gt;Verizon Said to Near Yahoo Deal at Lower Price After Hacks&lt;/a&gt;, $250 million discount on a $5 billion deal.&lt;/p&gt;
+
+&lt;h3 id=&#34;law-and-politics&#34;&gt;Law and Politics&lt;/h3&gt;
+
+&lt;p&gt;What are the rules for &lt;a href=&#34;http://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban&#34;&gt;cybersearches when crossing broders&lt;/a&gt;?  Does anyone here take extra precautions, such as using a &amp;ldquo;clean device&amp;rdquo;?&lt;/p&gt;
+
+&lt;p&gt;Is &lt;a href=&#34;https://securedrop.org/&#34;&gt;SecureDrop&lt;/a&gt; making it easier for government employees to leak?  There are a LOT of leaks coming from the new administration, some of which have already cost the new national security advisor his job.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.us-cert.gov/ncas/current-activity/2017/02/10/Enhanced-Analysis-GRIZZLY-STEPPE&#34;&gt;Enhanced Analysis of GRIZZLY STEPPE&lt;/a&gt;, a deep-dive into recent attacks carried out by nation-state adversaries.&lt;/p&gt;
+
+&lt;h3 id=&#34;cryptography&#34;&gt;Cryptography&lt;/h3&gt;
+
+&lt;p&gt;There &lt;em&gt;was&lt;/em&gt; a new paper called &amp;ldquo;The Security Impact of HTTPS Interception&amp;rdquo;, but I think it&amp;rsquo;s been taken offline in advance of presentation at a conference in a few weeks.  Abstract:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;As HTTPS deployment grows, middlebox and antivirus products are increasingly intercepting TLS connections to retain visibility into network traffic. In this work, we present a comprehensive study on the prevalence and impact of HTTPS interception. First, we show that web servers can detect interception by identifying a mismatch between the HTTP User-Agent header and TLS client behavior. We characterize the TLS handshakes of major browsers and popular interception products, which we use to build a set of heuristics to detect interception and identify the responsible product. We deploy these heuristics at three large network providers: (1) Mozilla Firefox update servers, (2) a set of popular e-commerce sites, and (3) the Cloudflare content distribution network. We find more than an order of magnitude more interception than previously estimated and with dramatic impact on connection security. To understand why security suffers, we investigate popular middleboxes and client-side
+security software, finding that nearly all reduce connection security and many introduce severe vulnerabilities. Drawing on our measurements, we conclude with a discussion on recent proposals to safely monitor HTTPS and recommendations for the security community.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;access-control&#34;&gt;Access Control&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/uber-security-privacy/introducing-the-uber-ssh-certificate-authority-4f840839c5cc&#34;&gt;Introducing the Uber SSH Certificate Authority&lt;/a&gt;, time-bound certificates for SSH authentication.&lt;/p&gt;
+
+&lt;h3 id=&#34;application-security&#34;&gt;Application Security&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2017/02/microsoft-delays-patch-tuesday-as-world-awaits-fix-for-smb-flaw/&#34;&gt;If it&amp;rsquo;s Patch Tuesday but there aren&amp;rsquo;t any patches, is it really Patch Tuesday?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.filippo.io/finding-ticketbleed/&#34;&gt;Finding Ticketbleed&lt;/a&gt;, deeply technical blow-by-blow of discovering a vulnerability in an implementation of a protocol by a vendor.  But read the &amp;ldquo;Disclosure&amp;rdquo; section about performing &amp;ldquo;responsible disclosure&amp;rdquo; working with the vendor security team.&lt;/p&gt;
+
+&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;
+
+&lt;p&gt;What&amp;rsquo;s the &lt;a href=&#34;https://krebsonsecurity.com/2017/01/shopping-for-w2s-tax-data-on-the-dark-web/&#34;&gt;going rate for W-2 forms&lt;/a&gt;?  Krebs answers&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>week2 content</title>
+      <link>https://medina.github.io/blog/week2-content/</link>
+      <pubDate>Wed, 15 Feb 2017 22:44:17 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week2-content/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-2-notes-1.jpg&#34; alt=&#34;week-1-notes-1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.kali.org/&#34;&gt;Kali Linux&lt;/a&gt;, LiveCD, VM Images, etc., providing Linux loaded with security testing tools.&lt;/p&gt;
+
+&lt;p&gt;Sidebar re: whether all Chip&amp;rsquo;d cards include RFID (I don&amp;rsquo;t believe they do).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ransomware&#34;&gt;Ransomeware&lt;/a&gt;, malicious software that tries to &amp;ldquo;monetize the attack&amp;rdquo; by requesting payment to decrypt hijacked files.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://export.gov/safeharbor/&#34;&gt;Safe Harbor&lt;/a&gt;, an agreement which allowed for data to be stored for customers across different countries which had equivalent data protection regimes.&lt;/p&gt;
+
+&lt;p&gt;rot13: &amp;ldquo;Secret Decoder Ring&amp;rdquo; with a 13-character shift.&lt;/p&gt;
+
+&lt;p&gt;Brute force: we assume an adversary like &amp;ldquo;Eve&amp;rdquo; who has the ability to monitor communications always has an attack such that she can attempt all possible decryptions across the entire key space.  This is not efficient or cost-effective for the adversary.&lt;/p&gt;
+
+&lt;p&gt;Encode vs Encrypt: URL Encoding, Base64, and more&amp;hellip; how to tell this isn&amp;rsquo;t encryption?  There&amp;rsquo;s no &amp;ldquo;key&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Imitation_Game&#34;&gt;Imitation Game&lt;/a&gt;, recent movie about Alun Turing and the attempts to crack the Enigma machine during WWII.&lt;/p&gt;
+
+&lt;p&gt;Apps for encrypted communications: Facebook&amp;rsquo;s WhatsApp, OWS Signal, TOR, Threema (new to me), &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Data in Transit, Data at Rest: may have different security requirements.  Data at rest may be expensive to re-encrypt, and need to remain secure for longer.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Don&amp;rsquo;t collect what you can&amp;rsquo;t protect&lt;/em&gt;, my advice start-ups trying to figure out what customer data to retain.&lt;/p&gt;
+
+&lt;p&gt;Key-wrapping example: There&amp;rsquo;s a key to encrypt the disk of a multi-user system.  Where&amp;rsquo;s the key?  How does each user get the key when they login?  Key wrapping!  The key that decrypts the disk can be wrapped separately under a key for each user.  That way each of them can decrypt the encryption key, then decrypt the drive.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Magic_Lantern_(software)&#34;&gt;Magic Lantern&lt;/a&gt;: how did the FBI deal with getting evidence from suspects who were using strong encryption?  Brute-force the key?  No, instead they installed a key-logger on the suspect&amp;rsquo;s machine to capture the password / decryption key before seizing the encrypted disks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PBKDF2&#34;&gt;PBKDF2&lt;/a&gt;, a mechanism for converting a user-specified password into something suitable as a strong encryption key.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-2-notes-2.jpg&#34; alt=&#34;week-2-notes-2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Alice_and_Bob&#34;&gt;Alice and Bob&lt;/a&gt;, our characters who want to communicate securely, and Eve and Mallory, our adversaries who have capabilities that allow them to eavesdrop on (monitor) and perform malicious modification to traffic between the two, respectively.&lt;/p&gt;
+
+&lt;p&gt;3DES is a way to take DES and address the problem of having too small a keyspace by performing multiple rounds.  DES has 64-but-really-56-bit keys, but 3DES can be used to provide 112- or 168-bit keys.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-2-notes-3.jpg&#34; alt=&#34;week-2-notes-3&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.troyhunt.com/understanding-http-strict-transport/&#34;&gt;HSTS, Preload&lt;/a&gt;, and &lt;a href=&#34;https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning&#34;&gt;HPKP / Pinning&lt;/a&gt; are different mechanisms that provide hints from a server to a browser (well, actually that ship with the browser in the case of Preload) to strengthen the guarantees of TLS.  Wikipedia helpfully points out that my calling HPKP &amp;ldquo;certificate pinning&amp;rdquo; is a misnomer.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week1, Week2 Slides</title>

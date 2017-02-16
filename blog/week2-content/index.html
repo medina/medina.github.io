@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<meta name="description" content="Example blog">
+
+<base href="https://medina.github.io/">
+<title>
+
+
+     CyberSecurity: Essentials - week2 content 
+
+</title>
+<link rel="canonical" href="https://medina.github.io/blog/week2-content/">
+
+
+
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/default.min.css">
+
+
+<link rel="stylesheet" href="https://medina.github.io/css/reset.css">
+<link rel="stylesheet" href="https://medina.github.io/css/main.css">
+
+
+
+
+<link rel="shortcut icon"
+
+    href="https://medina.github.io/img/logo.png"
+
+>
+
+
+
+</head>
+
+
+<body lang="en">
+
+
+<section class="header"> 
+
+    <div class="container">
+        <a href="https://medina.github.io/"><img class="logo" src="https://medina.github.io/static/images/sps.png" /></a>
+        <div class="content">
+            <a href="https://medina.github.io/"><div class="name"><h1>CyberSecurity: Essentials</h1></div></a>
+            <nav>
+                <ul>
+                    
+                        <a href="https://medina.github.io/blog/"><li>Blog</li></a>
+                    
+                    
+                        
+                    
+                        
+                            
+                        
+                    
+                    
+                        
+                            <a href="https://medina.github.io/about/"><li>about</li></a>
+                        
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<section class="icons">
+    <div class="container">
+        <div class="content">
+
+        
+        
+        
+
+        
+
+        
+
+        
+            <a href="https://medina.github.io/index.xml">
+                <i class="icon ion-social-rss larger"></i>
+            </a>
+        
+        </div>
+    </div>
+</section>
+
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    <div class="page-heading">
+
+    week2 content
+
+</div>
+
+                </div>
+                <div class="meta">
+                    <div class="date" title="Wed Feb 15 2017 22:44:17 EST">Feb 15, 2017</div>
+                    <div class="reading-time"><div class="middot"></div>3 minutes read</div>
+                </div>
+            </div>
+            <div class="markdown">
+                <p><img src="/static/images/week-2-notes-1.jpg" alt="week-1-notes-1" /></p>
+
+<p><a href="https://www.kali.org/">Kali Linux</a>, LiveCD, VM Images, etc., providing Linux loaded with security testing tools.</p>
+
+<p>Sidebar re: whether all Chip&rsquo;d cards include RFID (I don&rsquo;t believe they do).</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Ransomware">Ransomeware</a>, malicious software that tries to &ldquo;monetize the attack&rdquo; by requesting payment to decrypt hijacked files.</p>
+
+<p><a href="http://export.gov/safeharbor/">Safe Harbor</a>, an agreement which allowed for data to be stored for customers across different countries which had equivalent data protection regimes.</p>
+
+<p>rot13: &ldquo;Secret Decoder Ring&rdquo; with a 13-character shift.</p>
+
+<p>Brute force: we assume an adversary like &ldquo;Eve&rdquo; who has the ability to monitor communications always has an attack such that she can attempt all possible decryptions across the entire key space.  This is not efficient or cost-effective for the adversary.</p>
+
+<p>Encode vs Encrypt: URL Encoding, Base64, and more&hellip; how to tell this isn&rsquo;t encryption?  There&rsquo;s no &ldquo;key&rdquo;.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/The_Imitation_Game">Imitation Game</a>, recent movie about Alun Turing and the attempts to crack the Enigma machine during WWII.</p>
+
+<p>Apps for encrypted communications: Facebook&rsquo;s WhatsApp, OWS Signal, TOR, Threema (new to me), &hellip;</p>
+
+<p>Data in Transit, Data at Rest: may have different security requirements.  Data at rest may be expensive to re-encrypt, and need to remain secure for longer.</p>
+
+<p><em>Don&rsquo;t collect what you can&rsquo;t protect</em>, my advice start-ups trying to figure out what customer data to retain.</p>
+
+<p>Key-wrapping example: There&rsquo;s a key to encrypt the disk of a multi-user system.  Where&rsquo;s the key?  How does each user get the key when they login?  Key wrapping!  The key that decrypts the disk can be wrapped separately under a key for each user.  That way each of them can decrypt the encryption key, then decrypt the drive.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Magic_Lantern_(software)">Magic Lantern</a>: how did the FBI deal with getting evidence from suspects who were using strong encryption?  Brute-force the key?  No, instead they installed a key-logger on the suspect&rsquo;s machine to capture the password / decryption key before seizing the encrypted disks.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/PBKDF2">PBKDF2</a>, a mechanism for converting a user-specified password into something suitable as a strong encryption key.</p>
+
+<p><img src="/static/images/week-2-notes-2.jpg" alt="week-2-notes-2" /></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Alice_and_Bob">Alice and Bob</a>, our characters who want to communicate securely, and Eve and Mallory, our adversaries who have capabilities that allow them to eavesdrop on (monitor) and perform malicious modification to traffic between the two, respectively.</p>
+
+<p>3DES is a way to take DES and address the problem of having too small a keyspace by performing multiple rounds.  DES has 64-but-really-56-bit keys, but 3DES can be used to provide 112- or 168-bit keys.</p>
+
+<p><img src="/static/images/week-2-notes-3.jpg" alt="week-2-notes-3" /></p>
+
+<p><a href="https://www.troyhunt.com/understanding-http-strict-transport/">HSTS, Preload</a>, and <a href="https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning">HPKP / Pinning</a> are different mechanisms that provide hints from a server to a browser (well, actually that ship with the browser in the case of Preload) to strengthen the guarantees of TLS.  Wikipedia helpfully points out that my calling HPKP &ldquo;certificate pinning&rdquo; is a misnomer.</p>
+
+                <br>
+                <p><a href="blog">Back to posts</a></p>
+            </div>
+            <br>
+            <div class="disqus">
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+  
+
+  <script type="text/javascript">
+    hljs.initHighlightingOnLoad();
+  </script>
+
+
+
+</body>
+</html>
+
