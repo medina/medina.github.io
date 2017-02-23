@@ -6,11 +6,146 @@
     <description>Recent content on CyberSecurity: Essentials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2017 16:32:12 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2017 20:24:55 -0500</lastBuildDate>
     <atom:link href="https://medina.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>week3 slides</title>
+      <title>Week4 Slides</title>
+      <link>https://medina.github.io/blog/week4-slides/</link>
+      <pubDate>Wed, 22 Feb 2017 20:24:55 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week4-slides/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medina.github.io/static/Week04.pdf&#34;&gt;Week04&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/fido-demo.gif&#34; width=&#34;100%&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week4 Links</title>
+      <link>https://medina.github.io/blog/week4-links/</link>
+      <pubDate>Wed, 22 Feb 2017 20:24:50 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week4-links/</guid>
+      <description>
+
+&lt;p&gt;Spotted via &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;HackerNews&lt;/a&gt;, &lt;a href=&#34;https://slashdot.org&#34;&gt;Slashdot&lt;/a&gt;, &lt;a href=&#34;https://www.reddit.com/r/netsec/&#34;&gt;/r/netsec&lt;/a&gt;, &lt;a href=&#34;http://www.oreilly.com/security/newsletter&#34;&gt;O&amp;rsquo;Reilly Security Newsletter&lt;/a&gt;, &lt;a href=&#34;https://twitter.com&#34;&gt;Twitter&lt;/a&gt;; via security bloggers including &lt;a href=&#34;https://krebsonsecurity.com/&#34;&gt;Krebs on Security&lt;/a&gt;, &lt;a href=&#34;https://www.troyhunt.com/&#34;&gt;Troy Hunt&lt;/a&gt;; from classmates; and elsewhere.&lt;/p&gt;
+
+&lt;h3 id=&#34;events-and-conferences&#34;&gt;Events and Conferences&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.rsaconference.com/&#34;&gt;RSA Conference&lt;/a&gt; &lt;a href=&#34;https://www.youtube.com/playlist?list=PLeUGLKUYzh_j1Q75yeae8upX-T1FLmZWf&#34;&gt;videos are online&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;cybercrime-stories&#34;&gt;Cybercrime Stories&lt;/h3&gt;
+
+&lt;p&gt;From classmates.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://archives.fbi.gov/archives/newhaven/press-releases/2011/nh041311.htm&#34;&gt;That time the FBI operated a botnet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;&lt;a href=&#34;http://www.independent.ie/business/personal-finance/property-mortgages/home-buyers-stand-to-lose-thousands-in-new-cyberattack-35424312.html&#34;&gt;Friday Afternoon Fraud&lt;/a&gt;&amp;rdquo; and trying to &lt;a href=&#34;https://www.lawsociety.ie/News/News/Stories/Launch-of-Cybersecurity-section/&#34;&gt;raise lawyer&amp;rsquo;s awareness of cybersecurity&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Cybercriminals are hacking the email accounts of Irish solicitors in an attempt to steal tens of thousands of euro from unsuspecting home buyers, the Sunday Independent has learned.&lt;/p&gt;
+
+&lt;p&gt;Dubbed &amp;lsquo;Friday Afternoon Fraud&amp;rsquo;, the conveyancing scam has been known to take several forms, but generally occurs when the hackers intercept emails between home buyers or sellers, and their solicitors.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I had to look up &lt;a href=&#34;https://en.wikipedia.org/wiki/Conveyancing&#34;&gt;conveyancing&lt;/a&gt;; in a real estate closing this is the transaction-clearing stage that often involves an escrow account.&lt;/p&gt;
+
+&lt;p&gt;In &amp;ldquo;&lt;a href=&#34;http://www.csoonline.com/article/3171937/security/hackers-behind-bank-attack-campaign-use-russian-as-decoy.html&#34;&gt;Hackers behind bank attack campaign use Russian as decoy&lt;/a&gt;&amp;rdquo;, there seems to be a &amp;ldquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/False_flag&#34;&gt;false flag operation&lt;/a&gt;&amp;rdquo;.  There&amp;rsquo;s some nice &lt;a href=&#34;https://baesystemsai.blogspot.ro/2017/02/lazarus-false-flag-malware.html&#34;&gt;in-depth analysis&lt;/a&gt; in the source link.  This drives home a point about cyber attacks: &lt;a href=&#34;https://twitter.com/thegrugq/status/706545282645757952&#34;&gt;attribution is hard&lt;/a&gt;.  More on this from &lt;em&gt;&lt;a href=&#34;https://www.wired.com/2016/12/hacker-lexicon-attribution-problem/&#34;&gt;Wired&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href=&#34;https://www.tenable.com/blog/attribution-is-hard-part-1&#34;&gt;Tenable&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;cryptography&#34;&gt;Cryptography&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://jhalderm.com/pub/papers/interception-ndss17.pdf&#34;&gt;The Security Impact of HTTPS Interception&lt;/a&gt;&lt;/em&gt; is available again.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[W]e assess the prevalence and impact of HTTPS interception by applying our
+heuristics to nearly eight billion connection handshakes.  [W]e find differing
+rates of interception: 4.0% of Firefox update connections, 6.2% of e-commerce
+connections, and 10.9% of U.S. Cloudflare connections were intercepted. While
+these rates vary by vantage point, all are more than an order of magnitude
+higher than previous estimates.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There&amp;rsquo;s supposed to be a &lt;a href=&#34;https://github.com/zakird/tlsfingerprints&#34;&gt;GitHub repo&lt;/a&gt; appearing soon.&lt;/p&gt;
+
+&lt;h3 id=&#34;application-security&#34;&gt;Application Security&lt;/h3&gt;
+
+&lt;p&gt;Google&amp;rsquo;s &lt;a href=&#34;https://googleprojectzero.blogspot.com/&#34;&gt;Project Zero&lt;/a&gt; &lt;a href=&#34;https://bugs.chromium.org/p/project-zero/issues/detail?id=992&#34;&gt;went full disclosure on Microsoft&lt;/a&gt;.  This is unrelated to the &lt;a href=&#34;https://twitter.com/PythonResponder/status/826926681701113861&#34;&gt;other vulnerability&lt;/a&gt; that may have been actively exploited and were suppose to be fixed in the &lt;a href=&#34;https://arstechnica.com/information-technology/2017/02/microsoft-cancels-february-patch-tuesday-despite-0-day-in-wild/&#34;&gt;delayed February patches&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techblog.netflix.com/2017/02/introducing-netflix-stethoscope.html&#34;&gt;Netflix announced a new security tool&lt;/a&gt; that, in part, involves users in the security process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blogs.dropbox.com/tech/2017/02/meet-securitybot-open-sourcing-automated-security-at-scale/&#34;&gt;Dropbox also announced a security tool&lt;/a&gt; which similarly involves employees in triaging security events (should we talk about the possibility of insider threat here though?)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week3 Board Notes</title>
+      <link>https://medina.github.io/blog/week3-content/</link>
+      <pubDate>Wed, 22 Feb 2017 20:24:21 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week3-content/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-3-notes-1.jpg&#34; alt=&#34;week-3-notes-1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.schneier.com/&#34;&gt;Bruce Schneier&lt;/a&gt;, who keeps an excellent blog, wrote &lt;a href=&#34;https://www.schneier.com/books/applied_cryptography/&#34;&gt;Applied Security&lt;/a&gt;, which is an encyclopedia of cryptographic algorithms, but hasn&amp;rsquo;t been updated since 1996.&lt;/p&gt;
+
+&lt;p&gt;From the class links, we got to talking about cross-border &amp;ldquo;searches&amp;rdquo; of your personal computing devices (including phones).  This is on par with &amp;ldquo;show me what&amp;rsquo;s in your bag&amp;rdquo;, per case law, although you may not be able to be compelled to turn over passwords.  Also talked about &amp;ldquo;Magic Lantern&amp;rdquo; (again from links), where FBI could didn&amp;rsquo;t bother going through the effort of brute-forcing the keys for encrypted disks.  This segued to an incident following the &lt;a href=&#34;https://en.wikipedia.org/wiki/2015_San_Bernardino_attack&#34;&gt;San Bernardino&lt;/a&gt; case in which the &lt;a href=&#34;https://en.wikipedia.org/wiki/FBI%E2%80%93Apple_encryption_dispute&#34;&gt;FBI wanted access to an encrypted iPhone&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a thought exercise we got into how they may have eventually gotten access to the device (latest article suggests an exploit may have been used, rather than the clone-and-brute-force method we got into).  Classmate mentions &amp;ldquo;NAN Cloning&amp;rdquo;, and this article about *&lt;a href=&#34;https://www.theguardian.com/technology/2016/sep/20/iphone-hacking-passcodes-nand-mirroring-password&#34;&gt;$100 store-bought kit can hack into iPhone passcodes, researcher claims&lt;/a&gt; is close to what we discussed.  There&amp;rsquo;s a take-away: the security of the iPhone is proving to hold up well, even when physical access to the device is compromised.&lt;/p&gt;
+
+&lt;p&gt;(I can&amp;rsquo;t find the reference to &amp;ldquo;PIN bot&amp;rdquo;, a manual finger-press method, that was mention.)&lt;/p&gt;
+
+&lt;p&gt;At some point we got to talking about &lt;a href=&#34;https://en.wikipedia.org/wiki/Edward_Snowden&#34;&gt;Snowden&lt;/a&gt; and two movies were mentioned, &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Snowden_(film)&#34;&gt;Snowden&lt;/a&gt;&lt;/em&gt;, the Oliver Stone movie and &lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Citizenfour&#34;&gt;Citizenfour&lt;/a&gt;&lt;/em&gt;, a documentary.&lt;/p&gt;
+
+&lt;p&gt;Our media-sector classmate wasn&amp;rsquo;t around so we didn&amp;rsquo;t go too far into &lt;a href=&#34;https://www.torproject.org/&#34;&gt;Tor&lt;/a&gt; and &lt;a href=&#34;https://securedrop.org/&#34;&gt;SecureDrop&lt;/a&gt;.  We did hit upon a bunch of ways that Tor users can be de-anonymized by adversaries like&amp;hellip; the FBI.  In one example, &lt;a href=&#34;https://threatpost.com/fbi-mum-on-how-exactly-it-hacked-tor/117127/&#34;&gt;they allegedly hacked browsers&lt;/a&gt; from compromised sites they controlled.&lt;/p&gt;
+
+&lt;p&gt;Someone mentioned another vuln-for-hire case used by a government, where NSO Group&amp;rsquo;s product was &lt;a href=&#34;https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/&#34;&gt;used in the UAE&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The new &lt;a href=&#34;http://www.verizonenterprise.com/verizon-insights-lab/dbir/&#34;&gt;Verizon Data Breach Investigations Report&lt;/a&gt; (VZ DBIR) is coming soon, and in a preview, reports were circulating of a &lt;a href=&#34;https://nakedsecurity.sophos.com/2017/02/13/universitys-iot-devices-went-fishing-for-information-how-did-it-happen/&#34;&gt;mass IoT hack at a university&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;We spent some time talking about &lt;a href=&#34;https://www.kali.org/&#34;&gt;Kali Linux&lt;/a&gt;, which will be used in the more hands-on lab classes in the rest of the program.  You can download this and try it out to get a head start.  Browse the &lt;a href=&#34;http://tools.kali.org/tools-listing&#34;&gt;bundled tools&lt;/a&gt; to find out more about them.  We mentioned there&amp;rsquo;s a lot of overlap between them; nobody knows all of them, you use the ones you know best for the job at hand.  VMPlayer and &lt;a href=&#34;https://www.virtualbox.org/&#34;&gt;VirtualBox&lt;/a&gt; can be used to run virtual machines.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;We got into audit, with our guest speaker going into some of the different approaches that can be taken with an &amp;ldquo;audit&amp;rdquo; &amp;ndash; the terminology is all over the place and varies depending on the goals.  Is it an &amp;ldquo;audit&amp;rdquo; or an &amp;ldquo;assessment&amp;rdquo;; &amp;ldquo;black box&amp;rdquo; testing vs &amp;ldquo;white box&amp;rdquo; testing (and everything in the middle).&lt;/p&gt;
+
+&lt;p&gt;After the Target breach, &lt;a href=&#34;http://venturebeat.com/2014/03/26/lawsuit-against-target-and-trustwave-gets-the-security-standard-all-wrong/&#34;&gt;Trustwave was sued&lt;/a&gt;.  They were the &lt;a href=&#34;https://en.wikipedia.org/wiki/Qualified_Security_Assessor&#34;&gt;Qualified Security Assessor (QSA)&lt;/a&gt; who allegedly failed to identify issues during their point-in-time review of &lt;a href=&#34;https://www.pcisecuritystandards.org/document_library&#34;&gt;PCI DSS&lt;/a&gt; compliance.&lt;/p&gt;
+
+&lt;p&gt;Talking about what happens when access is not properly managed, the &lt;a href=&#34;https://en.wikipedia.org/wiki/2008_Soci%C3%A9t%C3%A9_G%C3%A9n%C3%A9rale_trading_loss&#34;&gt;SocGen&amp;rsquo;s rouge trader&lt;/a&gt; drove home lessons about segregation of duties.&lt;/p&gt;
+
+&lt;p&gt;In an aside we talked about &lt;a href=&#34;https://en.wikipedia.org/wiki/Chelsea_Manning&#34;&gt;Chelsea Manning&lt;/a&gt; who retrieved almost a half-million documents she had authorized access to, but in volumes that exceeded appropriate use of that authorized access.&lt;/p&gt;
+
+&lt;p&gt;Side comment about recent Twitter thread re &amp;ldquo;&lt;a href=&#34;https://twitter.com/fugueish/status/830638976687960066&#34;&gt;pen testing is a lemons market&lt;/a&gt;&amp;rdquo; (in a strong &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Market_for_Lemons&#34;&gt;economic sense&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-3-notes-2.jpg&#34; alt=&#34;week-3-notes-2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Somehow got to talking about Bitcoin, robbing cybercurrency, which led to the &lt;a href=&#34;https://medium.com/@pullnews/understanding-the-dao-hack-for-journalists-2312dd43e993&#34;&gt;Ethereum / DAO hack&lt;/a&gt;, which was a protocool-level attack.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t remember &lt;em&gt;how&lt;/em&gt;, but we got to talking about &lt;a href=&#34;https://en.wikipedia.org/wiki/Aadhaar&#34;&gt;Aadhaar/UIDAI&lt;/a&gt;, India&amp;rsquo;s country-wide identity-issuance program.&lt;/p&gt;
+
+&lt;p&gt;We got into cyberwarefare with mention of &lt;a href=&#34;https://arstechnica.com/security/2017/01/the-new-normal-yet-another-hacker-caused-power-outage-hits-ukraine/&#34;&gt;hackers targeting Ukraine&amp;rsquo;s power grid&lt;/a&gt;.  The &lt;a href=&#34;https://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia&#34;&gt;attacks on Estonia&lt;/a&gt; a decade ago were significant and led to the &lt;a href=&#34;https://en.wikipedia.org/wiki/Tallinn_Manual&#34;&gt;Tallinn Manual&lt;/a&gt;, a NATO-led study on the topic.&lt;/p&gt;
+
+&lt;p&gt;Microsoft recently shared &lt;em&gt;&lt;a href=&#34;https://blogs.microsoft.com/on-the-issues/2017/02/14/need-digital-geneva-convention/&#34;&gt;The need for a Digital Geneva Convention&lt;/a&gt;&lt;/em&gt; &amp;ndash; as a classmate quips &amp;ldquo;please don&amp;rsquo;t hack Microsoft&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://haveibeenpwned.com/&#34;&gt;Have I Been Pwned&lt;/a&gt; (&lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pwn&#34;&gt;to pwn&lt;/a&gt;&lt;/em&gt;) is Troy Hunt&amp;rsquo;s site to collect information from breaches into a searchable interface so you can know when your accounts are compromised.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.dhs.gov/topic/cybersecurity-information-sharing&#34;&gt;ISACs&lt;/a&gt; are threat-intelligence sharing groups aligned by sector, for example &lt;a href=&#34;https://www.fsisac.com/&#34;&gt;FS-ISAC&lt;/a&gt; for financial services and &lt;a href=&#34;http://www.ren-isac.net/&#34;&gt;REN-ISAC&lt;/a&gt; for universities.  &lt;a href=&#34;https://www.us-cert.gov/&#34;&gt;US-CERT&lt;/a&gt; is funded via DHS to provide data-sharing, incident response, and coordination.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;We talked about cybercrime laws and looked at &lt;a href=&#34;http://cybercrime.gov&#34;&gt;Cybercrime.gov&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As an assignment, dig up a case, find some of the court filings, and discuss in the next class.&lt;/p&gt;
+
+&lt;p&gt;For example, &lt;a href=&#34;https://www.justice.gov/opa/pr/alleged-international-hacker-indicted-massive-attack-us-retail-and-banking-networks&#34;&gt;Alleged International Hacker Indicted for Massive Attack on U.S. Retail and Banking Networks&lt;/a&gt; is a press release and &lt;a href=&#34;https://www.wired.com/images_blogs/threatlevel/2009/08/gonzalez.pdf&#34;&gt;USA vs Gonzalez&lt;/a&gt; is the indictment filed in court.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week3 Slides</title>
       <link>https://medina.github.io/blog/week3-slides/</link>
       <pubDate>Thu, 16 Feb 2017 16:32:12 -0500</pubDate>
       
@@ -20,7 +155,7 @@
     </item>
     
     <item>
-      <title>week3 links</title>
+      <title>Week3 Links</title>
       <link>https://medina.github.io/blog/week3-links/</link>
       <pubDate>Wed, 15 Feb 2017 23:25:59 -0500</pubDate>
       
@@ -71,7 +206,7 @@ security software, finding that nearly all reduce connection security and many i
     </item>
     
     <item>
-      <title>week2 content</title>
+      <title>Week2 Board Notes</title>
       <link>https://medina.github.io/blog/week2-content/</link>
       <pubDate>Wed, 15 Feb 2017 22:44:17 -0500</pubDate>
       
@@ -211,7 +346,7 @@ security software, finding that nearly all reduce connection security and many i
 &lt;li&gt;Symantec researchers have concluded that the global banking systems has been under attack from a sophisticated group dubbed “Lazarus”, which has been linked to N. Korea&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Banks at a recent meeting of President Obamas Commission on Enhancing Cybersecurity expressed frustrating at fighting hackers.&lt;/p&gt;
+&lt;p&gt;Banks at a recent meeting of President Obama&amp;rsquo;s Commission on Enhancing Cybersecurity expressed frustrating at fighting hackers.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Larger Banks are spending millions on protection, however, hackers are still getting in, often through small Banks, Vendors etc.&lt;/li&gt;
