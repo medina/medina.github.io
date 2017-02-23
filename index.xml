@@ -35,6 +35,10 @@
 
 &lt;p&gt;&lt;a href=&#34;https://www.rsaconference.com/&#34;&gt;RSA Conference&lt;/a&gt; &lt;a href=&#34;https://www.youtube.com/playlist?list=PLeUGLKUYzh_j1Q75yeae8upX-T1FLmZWf&#34;&gt;videos are online&lt;/a&gt;.&lt;/p&gt;
 
+&lt;h3 id=&#34;law-and-politics&#34;&gt;Law and Politics&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://theintercept.com/2017/02/20/how-to-run-a-rogue-government-twitter-account-with-an-anonymous-email-address-and-a-burner-phone/&#34;&gt;How to run a rogue government Twitter account&lt;/a&gt;&lt;/em&gt;, sounds like fun.  A good primer on operational security.&lt;/p&gt;
+
 &lt;h3 id=&#34;cybercrime-stories&#34;&gt;Cybercrime Stories&lt;/h3&gt;
 
 &lt;p&gt;From classmates.&lt;/p&gt;
@@ -68,9 +72,13 @@ higher than previous estimates.&lt;/p&gt;
 
 &lt;p&gt;There&amp;rsquo;s supposed to be a &lt;a href=&#34;https://github.com/zakird/tlsfingerprints&#34;&gt;GitHub repo&lt;/a&gt; appearing soon.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&#34;https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html&#34;&gt;SHA1 Collisions&lt;/a&gt; were announced by Google and CWI Amsterdam.  We know enough crypto to talk about why this is a big deal.  The &amp;ldquo;branded&amp;rdquo; attack is &lt;a href=&#34;http://shattered.io/&#34;&gt;SHAttered&lt;/a&gt;.  &lt;a href=&#34;https://arstechnica.com/security/2017/02/at-deaths-door-for-years-widely-used-sha1-function-is-now-dead/&#34;&gt;Arstechnica&lt;/a&gt; has more.&lt;/p&gt;
+
 &lt;h3 id=&#34;application-security&#34;&gt;Application Security&lt;/h3&gt;
 
 &lt;p&gt;Google&amp;rsquo;s &lt;a href=&#34;https://googleprojectzero.blogspot.com/&#34;&gt;Project Zero&lt;/a&gt; &lt;a href=&#34;https://bugs.chromium.org/p/project-zero/issues/detail?id=992&#34;&gt;went full disclosure on Microsoft&lt;/a&gt;.  This is unrelated to the &lt;a href=&#34;https://twitter.com/PythonResponder/status/826926681701113861&#34;&gt;other vulnerability&lt;/a&gt; that may have been actively exploited and were suppose to be fixed in the &lt;a href=&#34;https://arstechnica.com/information-technology/2017/02/microsoft-cancels-february-patch-tuesday-despite-0-day-in-wild/&#34;&gt;delayed February patches&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We haven&amp;rsquo;t covered CSRF yet, but new browser controls are starting to make an appearance that may ensure that &lt;a href=&#34;https://scotthelme.co.uk/csrf-is-dead/&#34;&gt;CSRF is dead&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;
 
