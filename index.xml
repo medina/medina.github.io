@@ -6,8 +6,136 @@
     <description>Recent content on CyberSecurity: Essentials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Feb 2017 20:24:55 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2017 15:29:31 -0500</lastBuildDate>
     <atom:link href="https://medina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week5 links</title>
+      <link>https://medina.github.io/blog/week5-links/</link>
+      <pubDate>Thu, 02 Mar 2017 15:29:31 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week5-links/</guid>
+      <description>
+
+&lt;h3 id=&#34;events-and-conferences&#34;&gt;Events and Conferences&lt;/h3&gt;
+
+&lt;h3 id=&#34;law-and-politics&#34;&gt;Law and Politics&lt;/h3&gt;
+
+&lt;h3 id=&#34;cybercrime&#34;&gt;Cybercrime&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://marissamayr.tumblr.com/post/157876672644/update-on-yahoos-security-incident&#34;&gt;Update on Yahoo’s security incident&lt;/a&gt; (also see &lt;a href=&#34;https://investor.yahoo.net/secfiling.cfm?filingID=1193125-17-65791&amp;amp;CIK=1011006&#34;&gt;10K filing&lt;/a&gt;):&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;As those who follow Yahoo know, in late 2014, we were the victim of a state-sponsored attack &amp;hellip; since this incident happened during my tenure, I have agreed to forgo my annual bonus and my annual equity grant this year and have expressed my desire that my bonus be redistributed to our company’s hardworking employees, who contributed so much to Yahoo’s success in 2016.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;cryptography&#34;&gt;Cryptography&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://valerieaurora.org/hash.html&#34;&gt;Lifetimes of cryptographic hash functions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;application-security&#34;&gt;Application Security&lt;/h3&gt;
+
+&lt;p&gt;Soon after we were playing with cookies and session management in class &amp;ndash; using my Google account! &amp;ndash; &lt;a href=&#34;https://www.theregister.co.uk/2017/03/01/google_still_silent_on_mass_logout/&#34;&gt;this happened&lt;/a&gt;.  This definitely affected my mobile GMail app.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;No change to report from the last update. We&amp;rsquo;re still actively working to resolve issues with Identity/Authentication. Future updates will follow when there is significant progress to report.&lt;/p&gt;
+
+&lt;p&gt;To summarize; some long-lived OAuth tokens have inadvertently been invalidated. This may affect the following Cloud services and will manifest as authentication errors:&lt;/p&gt;
+
+&lt;p&gt;Cloud APIs using OAuth tokens, and related services that use them
+gcloud SDK
+Cloud Storage gsutil
+Cloud Dataflow
+Note: not all customers are affected by this.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The CloudFlare incident has caused a lot of back-and-forth between CloudFlare and Google&amp;rsquo;s Project Zero (see Twitter for more)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bugs.chromium.org/p/project-zero/issues/detail?id=1139&#34;&gt;Cloudflare Reverse Proxies are Dumping Uninitialized Memory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/&#34;&gt;Incident report on memory leak caused by Cloudflare parser bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.cloudflare.com/quantifying-the-impact-of-cloudbleed/&#34;&gt;Quantifying the Impact of &amp;ldquo;Cloudbleed&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Project Zero also released a &lt;a href=&#34;https://bugs.chromium.org/p/project-zero/issues/detail?id=1011&#34;&gt;Microsoft browser vulnerability&lt;/a&gt; that went unpatched.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://team-sik.org/trent_portfolio/password-manager-apps/&#34;&gt;Password Manager Vulnerabilities&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;At first sight, the requirements for a password manager application seem simple: Storing the passwords of a user centralized in a secure and confidential way. However, how is the reality on mobile, password manger applications, especially on Android? &amp;hellip; Despite the vendors’ claims, is it nevertheless possible to obtain access to the stored credentials?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/badthingsdaily&#34;&gt;BadThingsDaily&lt;/a&gt; &amp;ndash; not so fictional worst-case drills, every day!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Via a classmate, &lt;a href=&#34;https://www.monster.com/career-advice/article/cybersecurity-suffers-from-talent-shortage&#34;&gt;Cybersecurity Suffers from Talent Shortage&lt;/a&gt;.  Related, there may be some &lt;a href=&#34;http://www.reuters.com/article/us-usa-cyber-nsa-idUSKBN1672ML&#34;&gt;other cybersecurity folks entering the private job market&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week4 Board Notes</title>
+      <link>https://medina.github.io/blog/week4-content/</link>
+      <pubDate>Wed, 01 Mar 2017 03:28:04 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week4-content/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-4-notes-1.jpg&#34; alt=&#34;week-4-notes-1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A classmate recommends &lt;a href=&#34;http://www.fredkaplan.info/dark-territory.htm&#34;&gt;Dark Territory: The Secret History of Cyber War&lt;/a&gt;.  I&amp;rsquo;ve reserved it at the library :-)  Excerpt from the &lt;a href=&#34;https://www.nytimes.com/2016/03/06/books/review/dark-territory-the-secret-history-of-cyber-war-by-fred-kaplan.html&#34;&gt;&lt;em&gt;New York Times&lt;/em&gt; review&lt;/a&gt; in which life imitates art:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Kaplan had access to several of these people, and so the book is peppered with many fascinating behind-the-scenes ­anecdotes. For example, it opens with the story of Ronald Reagan watching the 1983 Matthew Broderick hacker movie “WarGames,” which led him to ask for the first national security policy directive on information systems security.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We got to talking about &lt;a href=&#34;https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/&#34;&gt;Stuxnet&lt;/a&gt; when a classmate took us into the nasty details of how it infected embedded systems without leaving a trace.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zerodaysfilm.com/&#34;&gt;&lt;em&gt;Zero Days&lt;/em&gt;&lt;/a&gt; is a movie on the subject that was mentioned (I haven&amp;rsquo;t seen it yet).&lt;/p&gt;
+
+&lt;p&gt;We got into biometrics, including voice patterns.  I had to mention that &lt;a href=&#34;https://www.youtube.com/watch?v=n5GzlOpf3KA&#34;&gt;famous plot element&lt;/a&gt; from &lt;a href=&#34;https://www.youtube.com/watch?v=LlKDkTbUFhU&#34;&gt;Sneakers&lt;/a&gt; (all-star cast!)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nuance.com/for-business/customer-service-solutions/voice-biometrics/index.htm&#34;&gt;Nuance Voice Biometrics&lt;/a&gt; is one product that supports this.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.fortinet.com/2013/08/14/security-101-smshing&#34;&gt;Smshing&lt;/a&gt; &amp;ndash; phishing via SMS &amp;ndash; was a new word for me.&lt;/p&gt;
+
+&lt;p&gt;We reviewed various password managers just in time for the news of the week for &lt;a href=&#34;https://team-sik.org/trent_portfolio/password-manager-apps/&#34;&gt;Password Manager Vulnerabilities&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We also talked about different multi-factor authentication mechanisms, including things like &lt;a href=&#34;https://www.yubico.com/products/yubikey-hardware/&#34;&gt;Yubkey&lt;/a&gt; hardware.  These are all &amp;ldquo;something you have&amp;rdquo; proof mechanisms (as opposed to your password, which is &amp;ldquo;something you know&amp;rdquo;)&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://xkcd.com/936/&#34;&gt;XKCD comic&lt;/a&gt; I&amp;rsquo;d hinted at:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgs.xkcd.com/comics/password_strength.png&#34; alt=&#34;xkcd&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://xkcd.com/792/&#34;&gt;There&lt;/a&gt; &lt;a href=&#34;https://xkcd.com/1286/&#34;&gt;are&lt;/a&gt; &lt;a href=&#34;https://xkcd.com/538/&#34;&gt;more&lt;/a&gt; good ones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgs.xkcd.com/comics/security.png&#34; alt=&#34;xkcd&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Microsoft explains &lt;a href=&#34;https://technet.microsoft.com/en-us/security/dn785092&#34;&gt;Pass the Hash&lt;/a&gt; attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Stingray_phone_tracker&#34;&gt;Stingrays&lt;/a&gt; are fake cellular base stations law enformcent can use for surveillance purposes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.theverge.com/2017/1/20/14334192/donald-trump-phone-android-security-president&#34;&gt;What smartphone does POTUS use?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mobiledit.com/sim-cloning/&#34;&gt;SIM card cloning is a thing&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;SIM Cloning Tool is only for forensic purposes. The cloned SIM will never connect to an operator’s network! The purpose of this tool is to isolate a phone from its network for secure investigations.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-4-notes-2.jpg&#34; alt=&#34;week-4-notes-2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Shamir&#39;s_Secret_Sharing&#34;&gt;Shamir&amp;rsquo;s Secret Sharing&lt;/a&gt;, &lt;a href=&#34;https://blog.cloudflare.com/red-october-cloudflares-open-source-implementation-of-the-two-man-rule/&#34;&gt;Red October&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Shibboleth&#34;&gt;Shibboleth&lt;/a&gt;, &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;By coincidence (see above) we mentioned &lt;a href=&#34;https://en.wikipedia.org/wiki/WarGames&#34;&gt;&lt;em&gt;WarGames&lt;/em&gt;&lt;/a&gt; later, with the &lt;a href=&#34;https://www.youtube.com/watch?v=8-T_uhQ0iE4&#34;&gt;opening scene&lt;/a&gt; having an example of a dual-key or split-key protocol.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week4 Slides</title>
