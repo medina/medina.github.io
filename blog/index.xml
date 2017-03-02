@@ -10,16 +10,12 @@
     <atom:link href="https://medina.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Week5 links</title>
+      <title>Week5 Links</title>
       <link>https://medina.github.io/blog/week5-links/</link>
       <pubDate>Thu, 02 Mar 2017 15:29:31 -0500</pubDate>
       
       <guid>https://medina.github.io/blog/week5-links/</guid>
       <description>
-
-&lt;h3 id=&#34;events-and-conferences&#34;&gt;Events and Conferences&lt;/h3&gt;
-
-&lt;h3 id=&#34;law-and-politics&#34;&gt;Law and Politics&lt;/h3&gt;
 
 &lt;h3 id=&#34;cybercrime&#34;&gt;Cybercrime&lt;/h3&gt;
 
@@ -70,6 +66,13 @@ Note: not all customers are affected by this.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;At first sight, the requirements for a password manager application seem simple: Storing the passwords of a user centralized in a secure and confidential way. However, how is the reality on mobile, password manger applications, especially on Android? &amp;hellip; Despite the vendors’ claims, is it nevertheless possible to obtain access to the stored credentials?&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.troyhunt.com/data-from-connected-cloudpets-teddy-bears-leaked-and-ransomed-exposing-kids-voice-messages/&#34;&gt;Data from connected CloudPets teddy bears leaked and ransomed, exposing kids&amp;rsquo; voice messages&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Here it is:&lt;br&gt;- Toy captured kids voices&lt;br&gt;- Data exposed via MongoDB&lt;br&gt;- 2.2m recordings&lt;br&gt;- DB ransom&amp;#39;d&lt;br&gt;- And much more&amp;hellip;&lt;a href=&#34;https://t.co/HvePnZleXR&#34;&gt;https://t.co/HvePnZleXR&lt;/a&gt;&lt;/p&gt;&amp;mdash; Troy Hunt (@troyhunt) &lt;a href=&#34;https://twitter.com/troyhunt/status/836320506127101953&#34;&gt;February 27, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;
 
