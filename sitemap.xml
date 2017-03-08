@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://medina.github.io/blog/week6-slides/</loc>
+    <lastmod>2017-03-07T23:31:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://medina.github.io/blog/week6-links/</loc>
+    <lastmod>2017-03-07T21:07:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://medina.github.io/blog/week5-content/</loc>
+    <lastmod>2017-03-02T18:36:34-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://medina.github.io/blog/week5-links/</loc>
     <lastmod>2017-03-02T15:29:31-05:00</lastmod>
   </url>
@@ -68,7 +83,7 @@
   
   <url>
     <loc>https://medina.github.io/blog/</loc>
-    <lastmod>2017-03-02T15:29:31-05:00</lastmod>
+    <lastmod>2017-03-07T23:31:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,7 +94,7 @@
   
   <url>
     <loc>https://medina.github.io/</loc>
-    <lastmod>2017-03-02T15:29:31-05:00</lastmod>
+    <lastmod>2017-03-07T23:31:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,8 +6,154 @@
     <description>Recent content in Blogs on CyberSecurity: Essentials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 15:29:31 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2017 23:31:42 -0500</lastBuildDate>
     <atom:link href="https://medina.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week6 Slides</title>
+      <link>https://medina.github.io/blog/week6-slides/</link>
+      <pubDate>Tue, 07 Mar 2017 23:31:42 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week6-slides/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medina.github.io/static/Week06.pdf&#34;&gt;Week06&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week6 Links</title>
+      <link>https://medina.github.io/blog/week6-links/</link>
+      <pubDate>Tue, 07 Mar 2017 21:07:58 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week6-links/</guid>
+      <description>
+
+&lt;h3 id=&#34;events-and-conferences&#34;&gt;Events and Conferences&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.usenix.org/conference/enigma2017/conference-program&#34;&gt;Videos from Enigma 2017&lt;/a&gt; are posted.  I plan on watching &lt;em&gt;Secrets at Scale: Automated Bootstrapping of Secrets &amp;amp; Identity in the Cloud&lt;/em&gt;,&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/turtles-all-the-way.png&#34; alt=&#34;turtles&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/Turtles_all_the_way_down&#34;&gt;Turtles all the way down&lt;/a&gt;&amp;rdquo; as the presentation quips.&lt;/p&gt;
+
+&lt;h3 id=&#34;application-security&#34;&gt;Application Security&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://wikileaks.org/ciav7p1/&#34;&gt;Wikileaks: CIA Hacking Tools Revealed&lt;/a&gt; received a strange reception.  Top comments on the &lt;a href=&#34;https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html&#34;&gt;&lt;em&gt;New York Times&lt;/em&gt; coverage&lt;/a&gt; seemed to be &amp;ldquo;spies are paid to spy, this is why we have the CIA, why is anyone surprised?&amp;rdquo;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The documents amount to a detailed, highly technical catalog of tools. They include instructions for compromising a wide range of common computer tools for use in spying: the online calling service Skype; Wi-Fi networks; documents in PDF format; and even commercial antivirus programs of the kind used by millions of people to protect their computers.&lt;/p&gt;
+
+&lt;p&gt;In one revelation that may especially trouble the tech world if confirmed, WikiLeaks said that the C.I.A. and allied intelligence services have managed to compromise both Apple and Android smartphones. [&amp;hellip;] By penetrating the user’s phone, the agency can make the encryption irrelevant by intercepting messages and calls before their content is encrypted, or, on the other end, after messages are decrypted.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A reminder that breaking encryption on the wire may not be the most direct route to discovering &amp;ldquo;clear-text&amp;rdquo; communications.&lt;/p&gt;
+
+&lt;p&gt;If anyone here has ever used a &amp;ldquo;web-based jailbreak kit&amp;rdquo; on an older generation iPhone, this was surely leveraging a remote code execution (RCE) vulnerability of the sorts that are suggested here.&lt;/p&gt;
+
+&lt;p&gt;The EFF points out that &lt;a href=&#34;https://www.eff.org/deeplinks/2017/03/hey-cia-you-held-security-flaw-information-now-its-out-thats-not-how-it-should&#34;&gt;vuln-hoarding means software remains insecure&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The dark side of this story is that the documents confirm that the CIA holds on to security vulnerabilities in software and devices—including Android phones, iPhones, and Samsung televisions—that millions of people around the world rely on. The agency appears to have failed to accurately assess the risk of not disclosing vulnerabilities to responsible vendors and failed to follow even the limited Vulnerabilities Equities Process. As these leaks show, we&amp;rsquo;re all made less safe by the CIA&amp;rsquo;s decision to keep &amp;ndash;  rather than ensure the patching of &amp;ndash; vulnerabilities. Even spy agencies like the CIA have a responsibility to protect the security and privacy of Americans.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;EPIC has more about &lt;a href=&#34;https://epic.org/privacy/cybersecurity/vep/&#34;&gt;VEP&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://openai.com/blog/adversarial-example-research/&#34;&gt;Attacking machine learning with adversarial examples&lt;/a&gt; is an unsettling survey of techniques that can really screw with machine learning software.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Adversarial examples have the potential to be dangerous. For example, attackers could target autonomous vehicles by using stickers or paint to create an adversarial stop sign that the vehicle would interpret as a &amp;lsquo;yield&amp;rsquo; or other sign&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This was &lt;a href=&#34;https://www.usenix.org/conference/enigma2017/conference-program/presentation/papernot&#34;&gt;also presented at Enigma&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week5 Board Notes</title>
+      <link>https://medina.github.io/blog/week5-content/</link>
+      <pubDate>Thu, 02 Mar 2017 18:36:34 -0500</pubDate>
+      
+      <guid>https://medina.github.io/blog/week5-content/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/XcodeGhost&#34;&gt;Malware infects apps via developer tools&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Insider trading &lt;a href=&#34;https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-arrest-macau-resident-and-unsealing-charges-against&#34;&gt;by hacking law firms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Classmate mentions the &lt;a href=&#34;https://en.wikipedia.org/wiki/Ashley_Madison_data_breach&#34;&gt;Ashley Madison Breach&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bill mentions the RSA Breach: &lt;a href=&#34;http://blogs.rsa.com/anatomy-of-an-attack/&#34;&gt;RSA Anatomy of an Attack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cyber kill chain:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lockheedmartin.com/us/what-we-do/aerospace-defense/cyber/cyber-kill-chain.html&#34;&gt;Glossy marketing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lockheedmartin.com/content/dam/lockheed/data/corporate/documents/LM-White-Paper-Intel-Driven-Defense.pdf&#34;&gt;Academic-style paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/kill-chain.png&#34; alt=&#34;Intrusion Kill Chain&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Kill chain&amp;rdquo; sounds ominous, &amp;ldquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/Kill_chain&#34;&gt;originally used as a military concept related to the structure of an attack&lt;/a&gt;&amp;rdquo;.  Bill mentions others that have been re-purposed for cybersecurity, including &lt;a href=&#34;https://en.wikipedia.org/wiki/Demilitarized_zone&#34;&gt;DMZ&lt;/a&gt;.  &lt;a href=&#34;https://en.wikipedia.org/wiki/Firewall_(computing)&#34;&gt;Firewall&lt;/a&gt; came from the barrier between the (dangerous) steam engine and the people in a the locomotive.&lt;/p&gt;
+
+&lt;p&gt;Viruses and worms seem to have a more organic origin.  We have anti-virus, but no innoculation (or is that what patching is?)&lt;/p&gt;
+
+&lt;p&gt;Funny to think what names could have stuck, e.g., &amp;ldquo;web application &lt;a href=&#34;https://en.wikipedia.org/wiki/Stockade&#34;&gt;stockade&lt;/a&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;Question from a classmate: How to get into cybersecurity?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Knowledge of basics &amp;ndash; take this class :-)&lt;/li&gt;
+&lt;li&gt;Certifications&lt;/li&gt;
+&lt;li&gt;Experience from other domains, two popular routes: infrastructure (networking or sysadmin) or application dev&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Where do Mac addresses come from?  Who gives out OUIs?  &lt;a href=&#34;http://www.iana.org/assignments/ethernet-numbers&#34;&gt;IANA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What applications that run over HTTP?  Lots of things can be tunneled over HTTP, but most common might be things like RDP (which has its own native remote desktop protocol).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-5-notes-1.jpg&#34; alt=&#34;notes&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning&#34;&gt;HPKP&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security&#34;&gt;HSTS&lt;/a&gt; are trust-on-first-use (TOFU) headers sent by servers to &amp;ldquo;modern&amp;rdquo; web browsers that understand them to signal certain security behaviors.  I made some snarky comments about the &amp;ldquo;&lt;a href=&#34;https://chromium.googlesource.com/chromium/src/net/+/refs/heads/master/http/transport_security_state_static.json&#34;&gt;preload&lt;/a&gt;&amp;rdquo; form of this same data that ships with Chrome.  More secure perhaps but doesn&amp;rsquo;t seem like a great approach to ship static data like this.  &lt;a href=&#34;https://hstspreload.org/&#34;&gt;Get your own domain listed&lt;/a&gt;!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Be aware that inclusion in the preload list cannot easily be undone. Domains can be removed, but it takes months for a change to reach users with a Chrome update and we cannot make guarantees about other browsers. Don&amp;rsquo;t request inclusion unless you&amp;rsquo;re sure that you can support HTTPS for your entire site and all its subdomains the long term.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We got to talking about &lt;a href=&#34;https://en.wikipedia.org/wiki/WebSocket&#34;&gt;WebSockets&lt;/a&gt; and whether they played nicely with firewalls.  A classmate mentions that WebSockets could be used by advertisers to get around standard ad blockers (&lt;a href=&#34;https://bugs.chromium.org/p/chromium/issues/detail?id=129353#c58&#34;&gt;thread on Chrome-dev&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Question from a classmate: TCP/IP network handling &amp;ndash; what&amp;rsquo;s handled in user space, what&amp;rsquo;s kernel space?&lt;/p&gt;
+
+&lt;p&gt;A good article on the topic is Cloudflare&amp;rsquo;s &lt;a href=&#34;https://blog.cloudflare.com/why-we-use-the-linux-kernels-tcp-stack/&#34;&gt;Why we use the Linux kernel&amp;rsquo;s TCP stack&lt;/a&gt;, which gives an &amp;ldquo;it depends&amp;rdquo; answer,&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The latency is very important for the HFT (high frequency trading) folks. Traders can afford custom hardware and fancy proprietary network stacks.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In a side discussion, the question was motivated by thinking of attacks that could be triggered via crafted packets that could exploit the kernel directly.  I like the way you think!  This should be a fairly straight-forward &amp;ldquo;unpacking&amp;rdquo; of ones and zeros from the received network traffic, while keeping a small amount of state off to the side before handling the data off to an application in user-space for heavier processing.&lt;/p&gt;
+
+&lt;p&gt;One bit of code that &lt;em&gt;parses&lt;/em&gt; network traffic are the packet dissectors we saw in Wireshark in the class.  Each year there are &lt;a href=&#34;https://www.wireshark.org/security/&#34;&gt;dozens of security issues&lt;/a&gt; reported in these dissectors, usually resulting in some denial of service (affecting only the Wireshark application) if its run against a payload with a specially crafted packet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/bookshelf.jpg&#34; alt=&#34;bookshelf&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I like the first four chapters of &lt;a href=&#34;https://hpbn.co&#34;&gt;High Performance Browser Networking&lt;/a&gt; (free online) for &amp;ldquo;Networking 101&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://medina.github.io/static/images/week-5-notes-2.jpg&#34; alt=&#34;notes&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Flows through a firewall, permitted in one direction (&amp;ldquo;outbound to an HTTP server on port 80/TCP&amp;rdquo;), with the firewall &amp;ldquo;remembering&amp;rdquo; state to permit the response traffic back from the web server to the ephemeral port on the client without needing a static rule.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/OSI_model&#34;&gt;OSI model&lt;/a&gt; vs real-world protocols.  Diversity on the top and bottom, TCP/IP in the middle.&lt;/p&gt;
+
+&lt;p&gt;Not sure why but we were talking about the &lt;a href=&#34;http://web.mit.edu/~simsong/www/ugh.pdf&#34;&gt;Unix Haters Handbook&lt;/a&gt; (free online) at some point in the back of the class.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You know the real trouble with Unix? The real trouble is that it became so
+popular. It wasn’t meant to be popular. It was meant for a few folks working
+away in their labs, using Digital Equipment Corporation’s old PDP-11
+computer. I used to have one of those. A comfortable, room-sized machine.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Week5 Links</title>

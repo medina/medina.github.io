@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<meta name="description" content="Example blog">
+
+<base href="https://medina.github.io/">
+<title>
+
+
+     CyberSecurity: Essentials - Week5 Board Notes 
+
+</title>
+<link rel="canonical" href="https://medina.github.io/blog/week5-content/">
+
+
+
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/default.min.css">
+
+
+<link rel="stylesheet" href="https://medina.github.io/css/reset.css">
+<link rel="stylesheet" href="https://medina.github.io/css/main.css">
+
+
+
+
+<link rel="shortcut icon"
+
+    href="https://medina.github.io/img/logo.png"
+
+>
+
+
+
+</head>
+
+
+<body lang="en">
+
+
+<section class="header"> 
+
+    <div class="container">
+        <a href="https://medina.github.io/"><img class="logo" src="https://medina.github.io/static/images/sps.png" /></a>
+        <div class="content">
+            <a href="https://medina.github.io/"><div class="name"><h1>CyberSecurity: Essentials</h1></div></a>
+            <nav>
+                <ul>
+                    
+                        <a href="https://medina.github.io/blog/"><li>Blog</li></a>
+                    
+                    
+                        
+                    
+                        
+                            
+                        
+                    
+                    
+                        
+                            <a href="https://medina.github.io/about/"><li>about</li></a>
+                        
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<section class="icons">
+    <div class="container">
+        <div class="content">
+
+        
+        
+        
+
+        
+
+        
+
+        
+            <a href="https://medina.github.io/index.xml">
+                <i class="icon ion-social-rss larger"></i>
+            </a>
+        
+        </div>
+    </div>
+</section>
+
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    <div class="page-heading">
+
+    Week5 Board Notes
+
+</div>
+
+                </div>
+                <div class="meta">
+                    <div class="date" title="Thu Mar 2 2017 18:36:34 EST">Mar 2, 2017</div>
+                    <div class="reading-time"><div class="middot"></div>4 minutes read</div>
+                </div>
+            </div>
+            <div class="markdown">
+                <p><a href="https://en.wikipedia.org/wiki/XcodeGhost">Malware infects apps via developer tools</a></p>
+
+<p>Insider trading <a href="https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-arrest-macau-resident-and-unsealing-charges-against">by hacking law firms</a></p>
+
+<p>Classmate mentions the <a href="https://en.wikipedia.org/wiki/Ashley_Madison_data_breach">Ashley Madison Breach</a></p>
+
+<p>Bill mentions the RSA Breach: <a href="http://blogs.rsa.com/anatomy-of-an-attack/">RSA Anatomy of an Attack</a></p>
+
+<p>Cyber kill chain:</p>
+
+<ul>
+<li><a href="http://www.lockheedmartin.com/us/what-we-do/aerospace-defense/cyber/cyber-kill-chain.html">Glossy marketing</a></li>
+<li><a href="http://www.lockheedmartin.com/content/dam/lockheed/data/corporate/documents/LM-White-Paper-Intel-Driven-Defense.pdf">Academic-style paper</a></li>
+</ul>
+
+<p><img src="/static/images/kill-chain.png" alt="Intrusion Kill Chain" /></p>
+
+<p>&ldquo;Kill chain&rdquo; sounds ominous, &ldquo;<a href="https://en.wikipedia.org/wiki/Kill_chain">originally used as a military concept related to the structure of an attack</a>&rdquo;.  Bill mentions others that have been re-purposed for cybersecurity, including <a href="https://en.wikipedia.org/wiki/Demilitarized_zone">DMZ</a>.  <a href="https://en.wikipedia.org/wiki/Firewall_(computing)">Firewall</a> came from the barrier between the (dangerous) steam engine and the people in a the locomotive.</p>
+
+<p>Viruses and worms seem to have a more organic origin.  We have anti-virus, but no innoculation (or is that what patching is?)</p>
+
+<p>Funny to think what names could have stuck, e.g., &ldquo;web application <a href="https://en.wikipedia.org/wiki/Stockade">stockade</a>&ldquo;</p>
+
+<p>Question from a classmate: How to get into cybersecurity?</p>
+
+<ul>
+<li>Knowledge of basics &ndash; take this class :-)</li>
+<li>Certifications</li>
+<li>Experience from other domains, two popular routes: infrastructure (networking or sysadmin) or application dev</li>
+</ul>
+
+<p>Where do Mac addresses come from?  Who gives out OUIs?  <a href="http://www.iana.org/assignments/ethernet-numbers">IANA</a></p>
+
+<p>What applications that run over HTTP?  Lots of things can be tunneled over HTTP, but most common might be things like RDP (which has its own native remote desktop protocol).</p>
+
+<p><img src="/static/images/week-5-notes-1.jpg" alt="notes" /></p>
+
+<p><a href="https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning">HPKP</a> and <a href="https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security">HSTS</a> are trust-on-first-use (TOFU) headers sent by servers to &ldquo;modern&rdquo; web browsers that understand them to signal certain security behaviors.  I made some snarky comments about the &ldquo;<a href="https://chromium.googlesource.com/chromium/src/net/+/refs/heads/master/http/transport_security_state_static.json">preload</a>&rdquo; form of this same data that ships with Chrome.  More secure perhaps but doesn&rsquo;t seem like a great approach to ship static data like this.  <a href="https://hstspreload.org/">Get your own domain listed</a>!</p>
+
+<blockquote>
+<p>Be aware that inclusion in the preload list cannot easily be undone. Domains can be removed, but it takes months for a change to reach users with a Chrome update and we cannot make guarantees about other browsers. Don&rsquo;t request inclusion unless you&rsquo;re sure that you can support HTTPS for your entire site and all its subdomains the long term.</p>
+</blockquote>
+
+<p>We got to talking about <a href="https://en.wikipedia.org/wiki/WebSocket">WebSockets</a> and whether they played nicely with firewalls.  A classmate mentions that WebSockets could be used by advertisers to get around standard ad blockers (<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=129353#c58">thread on Chrome-dev</a>)</p>
+
+<p>Question from a classmate: TCP/IP network handling &ndash; what&rsquo;s handled in user space, what&rsquo;s kernel space?</p>
+
+<p>A good article on the topic is Cloudflare&rsquo;s <a href="https://blog.cloudflare.com/why-we-use-the-linux-kernels-tcp-stack/">Why we use the Linux kernel&rsquo;s TCP stack</a>, which gives an &ldquo;it depends&rdquo; answer,</p>
+
+<blockquote>
+<p>The latency is very important for the HFT (high frequency trading) folks. Traders can afford custom hardware and fancy proprietary network stacks.</p>
+</blockquote>
+
+<p>In a side discussion, the question was motivated by thinking of attacks that could be triggered via crafted packets that could exploit the kernel directly.  I like the way you think!  This should be a fairly straight-forward &ldquo;unpacking&rdquo; of ones and zeros from the received network traffic, while keeping a small amount of state off to the side before handling the data off to an application in user-space for heavier processing.</p>
+
+<p>One bit of code that <em>parses</em> network traffic are the packet dissectors we saw in Wireshark in the class.  Each year there are <a href="https://www.wireshark.org/security/">dozens of security issues</a> reported in these dissectors, usually resulting in some denial of service (affecting only the Wireshark application) if its run against a payload with a specially crafted packet.</p>
+
+<p><img src="/static/images/bookshelf.jpg" alt="bookshelf" /></p>
+
+<p>I like the first four chapters of <a href="https://hpbn.co">High Performance Browser Networking</a> (free online) for &ldquo;Networking 101&rdquo;.</p>
+
+<p><img src="/static/images/week-5-notes-2.jpg" alt="notes" /></p>
+
+<p>Flows through a firewall, permitted in one direction (&ldquo;outbound to an HTTP server on port 80/TCP&rdquo;), with the firewall &ldquo;remembering&rdquo; state to permit the response traffic back from the web server to the ephemeral port on the client without needing a static rule.</p>
+
+<p>The <a href="https://en.wikipedia.org/wiki/OSI_model">OSI model</a> vs real-world protocols.  Diversity on the top and bottom, TCP/IP in the middle.</p>
+
+<p>Not sure why but we were talking about the <a href="http://web.mit.edu/~simsong/www/ugh.pdf">Unix Haters Handbook</a> (free online) at some point in the back of the class.</p>
+
+<blockquote>
+<p>You know the real trouble with Unix? The real trouble is that it became so
+popular. It wasn’t meant to be popular. It was meant for a few folks working
+away in their labs, using Digital Equipment Corporation’s old PDP-11
+computer. I used to have one of those. A comfortable, room-sized machine.</p>
+</blockquote>
+
+                <br>
+                <p><a href="blog">Back to posts</a></p>
+            </div>
+            <br>
+            <div class="disqus">
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+  
+
+  <script type="text/javascript">
+    hljs.initHighlightingOnLoad();
+  </script>
+
+
+
+</body>
+</html>
+
